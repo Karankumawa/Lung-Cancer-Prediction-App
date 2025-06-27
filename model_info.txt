@@ -1,0 +1,13 @@
+Model Name: LungCancerPrediction.h5
+Description: This is the trained machine learning model used for lung cancer prediction in the application. 
+It was excluded from the GitHub repository due to file size limitations.
+
+Download Link:
+https://drive.google.com/file/d/19qqCWxUPOnilyzZMzBEMLxWmFfAsqoKS/view?usp=sharing
+
+To use this model:
+1. Download the file from the above link.
+2. Place it inside the project directory (same folder as the app code).
+3. Ensure the file name remains exactly: LungCancerPrediction.h5
+
+Note: If the file fails to load, please verify the path and ensure required libraries are installed.
