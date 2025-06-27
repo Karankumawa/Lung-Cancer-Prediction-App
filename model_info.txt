@@ -3,7 +3,7 @@ Description: This is the trained machine learning model used for lung cancer pre
 It was excluded from the GitHub repository due to file size limitations.
 
 Download Link:
-https://drive.google.com/file/d/19qqCWxUPOnilyzZMzBEMLxWmFfAsqoKS/view?usp=sharing
+https://drive.google.com/file/d/1i-b8S9NW5hIDkf-gly8bJAGdhyoe3p65/view?usp=sharing
 
 To use this model:
 1. Download the file from the above link.
